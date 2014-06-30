@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Ramondin
+Implementation-Title: Ramondin
+Extension-Name: es.ramondin.util.general
+Specification-Version: 1.0.0
+Implementation-Version: 1.0.0
+Implementation-Vendor: Ramondin
